@@ -1,5 +1,14 @@
 # Portfolio
-![my-picture](./img/mypicture.png)
+
+<p align="center">
+    <img align="center" src="./img/mypicture.png">
+</p>
+
+## 📃 기본정보
+
+- 최종학력: 충남대학교 석사 졸업예정('25.02)
+- 전공: 정보통신공학
+- 관심 연구 분야: 전자, 통신, 딥러닝, 멀티에이전트 시스템, 강화학습, GNN
 
 ## 📗 프로젝트 및 연구
 
