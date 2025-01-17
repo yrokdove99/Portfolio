@@ -20,6 +20,7 @@ Opencv, Flask, Visual Basic (Excel, Word 자동화 능력 보유)
 
 ## 포트폴리오
 이력서만으로 저의 역량을 파악하기 어려우실 수 있는 부분에 대하여 PDF로 정리한 포트폴리오를 통해 구체적으로 준비했습니다.
+https://github.com/yrokdove99/Portfolio/blob/main/portfolio.pdf
 
 프로젝트 경험과 연구 성과(논문 등) 에 관한 상세 내용은 Github에 순차적으로 정리할 예정입니다.
 
