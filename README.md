@@ -4,7 +4,7 @@
 </p>
 
 # 최영록
-## 인공지능 프레임워크 개발자
+## 인공지능 시스템 개발자
 안녕하세요. 개발 분야의 Generalist로 성장하고 있는 신입 개발자 최영록 입니다.  
 프레임워크 설계 ▷ 성능 시험 환경 구축 ▷ 성능 분석/개선 관련 일을 해왔습니다.
 
@@ -38,26 +38,23 @@ https://github.com/yrokdove99/Portfolio/blob/main/portfolio.pdf
 1. [멀티에이전트 시스템을 위한 인공지능 프레임워크 개발](#멀티에이전트-시스템을-위한-인공지능--프레임워크-개발)
 
 ## **군집로봇 실시간 제어 테스트베드 개발**
-- Code: https://github.com/yrokdove99/Swarm-Drone-Testbed
+- https://github.com/yrokdove99/Swarm-Drone-Testbed
 
 
 ## **실내주차장에서 자동차 위치 추정을 위한 딥러닝 모델 구축**
-- Code: 업데이트 예정
 - 논문 명: 실내 차량 측위를 위한 그래프기반 딥러닝 모델 분석
 - 링크: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003104122
 
 
-
 ## **배터리 열 폭주 원인 예측을 위한 머신러닝 프레임워크 설계**
-- Code: 업데이트 예정
 - 논문 명: Thermal Runaway Diagnosis of Lithium-Ion Cells Using Data-Driven Method
 - 링크: https://www.mdpi.com/2076-3417/14/19/9107
 
 
-## **멀티에이전트 시스템을 위한 인공지능 프레임워크 개발**
-- Code: 추가예정
-- 논문 명: 멀티 에이전트 시스템을 위한 통신기반 그래프 신경망 연구
-- 링크: 추가예정
+## **[학위 논문] 멀티에이전트 시스템을 위한 인공지능 프레임워크 개발**
+- 논문 명: 멀티 에이전트 시스템을 위한 통신기반 그래프 신경망 연구 (Communication-Aware Graph Neural Network for Multi-agent Reinforcement Learning)
+- IEEE Access Accepted ('25.01)
+- 링크: Publish 이후 추가예정
 
 
 ## 대외활동
@@ -66,6 +63,6 @@ https://github.com/yrokdove99/Portfolio/blob/main/portfolio.pdf
 - **외국인 교류 동아리 ‘AFKN’ 총무** 2019.09 ~ 2019.12
 - **세종시 32사단 신병교육대대 ‘전문하사’** 2021.07~2022.03
 - **임베디드 시스템 설계 과목 조교** 2022.09 ~ 2023.09
-- **대전세종충남 AI/빅데이터 해커톤 조교** 2024.12 ~ 2025.01
+- **대전/세종/충남 AI/빅데이터 해커톤 대회회 조교** 2024.12 ~ 2025.01
 
 
