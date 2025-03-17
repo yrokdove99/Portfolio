@@ -9,7 +9,7 @@
 프레임워크 설계 ▷ 성능 시험 환경 구축 ▷ 성능 분석/개선 관련 일을 해왔습니다.
 
 ## 📃 기본정보
-- 최종학력: 충남대학교 석사 졸업예정('25.02)
+- 최종학력: 충남대학교 석사 졸업('25.02)
 - 전공: 정보통신공학
 - 관심 연구 분야: 전자, 통신, 딥러닝, 멀티에이전트 시스템, 강화학습, GNN
 - Contact: cyr9923@gmail.com
@@ -51,8 +51,8 @@ https://github.com/yrokdove99/Portfolio/blob/main/portfolio.pdf
 - 링크: https://www.mdpi.com/2076-3417/14/19/9107
 
 
-## **[학위 논문] 멀티에이전트 시스템을 위한 인공지능 프레임워크 개발**
-- 논문 명: 멀티 에이전트 시스템을 위한 통신기반 그래프 신경망 연구 (Communication-Aware Graph Neural Network for Multi-agent Reinforcement Learning)
+## **[학위] 멀티에이전트 시스템을 위한 인공지능 프레임워크 개발**
+- 논문 명: 멀티 에이전트 강화학습을 위한 통신기반 그래프 신경망 연구 (Communication-Aware Graph Neural Network for Multi-agent Reinforcement Learning)
 - IEEE Access Accepted ('25.01)
 - 링크: Publish 이후 추가예정
 
